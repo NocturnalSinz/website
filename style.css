@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "Oswald";
+}
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 6.5rem
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 110, 219);
+    font-size: 2rem;
+}
+
+.top_container{
+    background-color: aqua;
+    position: relative;
+    padding: 100%;
+}
+
+body { background-color: aquamarine; }
